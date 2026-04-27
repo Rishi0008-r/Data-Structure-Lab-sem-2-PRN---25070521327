@@ -56,8 +56,8 @@ int main() {
 
     printf("Elements in range: \n");
     printInRange(root, low, high);
-    printf("Name: Harshita Kanwar\n");
-    printf("PRN: 25070521330");
+    printf("Name: Krupacharya Wange\n");
+    printf("PRN: 25070521327");
 
     return 0;
 }
